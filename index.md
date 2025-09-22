@@ -1,80 +1,44 @@
 # Meenakshi Shastri
 
-**Data Scientist & Analytics Professional**
+**Data Analyst · Data Management and Insights · Richardson, Texas, USA**
 
-📍 Dallas, TX  
-🔗 [LinkedIn](https://www.linkedin.com/in/meenakshishastri/)  
-💻 [GitHub](https://github.com/meenushastri)
+[LinkedIn](https://www.linkedin.com/in/meenakshishastri/) | [GitHub](https://github.com/meenushastri)
 
----
+## Summary
 
-## About Me
+Results-driven Data Analyst with 7+ years' experience delivering actionable insights across global organizations. Proven expertise in data analytics, master data management, BI, and stakeholder collaboration. Passionate about driving operational efficiency and business growth with data-driven solutions.
 
-Data science professional with expertise in machine learning, statistical analysis, and business intelligence. Passionate about leveraging data to drive business insights and solve complex problems.
+## Featured Skills
 
----
+• Data Analysis · Visualization  
+• Master Data Management (MDM)  
+• SQL, MySQL, SQL Server  
+• BI Tools: QlikView, Tableau, Power BI  
+• Data Profiling, Root Cause Analysis  
+• Business/Data Quality Governance  
+• SAP (Materials, Vendor, Customer)  
+• Project & Stakeholder Management
 
-## Featured Projects
+## Selected Projects
 
-### 🏠 Energy Consumption Prediction Model
-**Technologies:** Python, Jupyter Notebook, Linear & Logistic Regression  
-Developed and implemented a supervised learning model to predict energy usage of home appliances based on temperature, humidity, and weather attributes. This project demonstrates proficiency in:
-- Statistical modeling and regression analysis
-- Feature engineering and data preprocessing
-- Model validation and performance evaluation
+• **Material MDM Blueprint Initiative (Lennox International):**  
+  Led technical implementation and data quality dashboard design to improve material management workflows.
 
-### 🏏 Marketing Strategy - Cricket Network
-**Technologies:** SAS  
-Analyzed marketing strategies and customer behavior patterns for cricket network engagement, providing actionable insights for business growth.
+• **Growth Analytics Platform (Grubhub):**  
+  Built dashboards and analytics automations enabling $2.5M in new revenue, optimizing listings and vendor onboarding.
 
-### 📦 Supply Chain Strategy Project
-**Focus:** Operations Optimization  
-Waiting Time Management analysis for UT Dallas Subway and Marketplace, optimizing operational efficiency and customer experience.
+• **Customer Data Quality & Lab Migration (Essilor of America):**  
+  Created validation and dashboard solutions improving customer workflow resolution rates and senior management visibility.
 
----
-
-## Technical Skills
-
-**Programming Languages:**
-- Python
-- SAS
-- SQL
-
-**Data Science & Analytics:**
-- Machine Learning (Supervised & Unsupervised Learning)
-- Statistical Analysis
-- Linear & Logistic Regression
-- Data Visualization
-- Predictive Modeling
-
-**Tools & Technologies:**
-- Jupyter Notebook
-- Git/GitHub
-- Data Preprocessing
-- Feature Engineering
-
-**Business Skills:**
-- Strategic Analysis
-- Supply Chain Management
-- Marketing Analytics
-- Operations Research
-
----
+• **Asset and Network Management Analytics (Reliance Jio):**  
+  Integrated and mapped data for 2M+ assets, developing dashboards and migration processes.
 
 ## Education
 
-**University of Texas at Dallas**  
-*Location: Dallas, TX*
-
----
+**M.S. Business Analytics**  
+University of Texas at Dallas
 
 ## Contact
 
-📧 Available upon request  
-📍 Dallas, TX  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/meenakshishastri/)  
-💻 [GitHub Portfolio](https://github.com/meenushastri)
-
----
-
-*This portfolio showcases my journey in data science and analytics. Feel free to explore my projects and connect with me for collaboration opportunities.*
+📍 Richardson, Texas, USA  
+📧 Available upon request
